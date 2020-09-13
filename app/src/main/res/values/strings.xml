@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="ctcd">CTCD</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <string name="code_error">404 Page</string>
+    <string name="not_found">Data not Found</string>
+
+</resources>
